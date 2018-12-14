@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: #C33754;
-    color: #270632;
+    background-color: #440D0F;
+    color: #F7F0F5;
 }
 
 #title {
@@ -37,6 +37,7 @@ body {
 #img-caption {
     text-align: center;
     font-size: 13px;
+    color: #5C5552;
 }
 
 #tribute-info {
@@ -62,4 +63,8 @@ li span{
     text-align: center;
     margin-top: 21px;
     font-weight: bold;
+}
+
+#tribute-link {
+    color: #E7D9CA;
 }
